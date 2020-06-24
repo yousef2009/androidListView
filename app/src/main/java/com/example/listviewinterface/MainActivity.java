@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
                 "Population: 77,288,000", "Area: 1,648,200 km2"));
         data.add(new Country(5, R.drawable.ic_china, "China",
                 "Population: 1,363,350,000", "Area: 9,640,820 km2"));
-        data.add(new Country(7, R.drawable.ic_america, "United State",
+        data.add(new Country(6, R.drawable.ic_america, "United State",
                 "Population: 317,706,00", "Area: 9,629,090 km2"));
 
 
