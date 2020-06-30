@@ -50,6 +50,7 @@ public class MainActivity extends AppCompatActivity {
 
                 //view is the selected row
                 view.setBackgroundColor(getColor(R.color.selectedRowColor));
+                view.setActivated(true);
 
            //     Log.e("name = ", data.get(i).getTvName());
 
